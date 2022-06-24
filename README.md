@@ -1,6 +1,6 @@
 # Rock Paper Scissor Game
 
-Deployed Application: 
+Deployed Application: https://daliangrullon.github.io/rock-paper-scissor-game/
 
 <br>
 
